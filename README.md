@@ -15,7 +15,6 @@
 
 
 
-- 👨‍💻I’m currently working on my portfolio
 - 🌱 I’m currently learning REACT
 - 💬 Ask me about : HTML CSS JavaScript
 - 📫 How to reach me : ShamalElyas2@gmail.com 
