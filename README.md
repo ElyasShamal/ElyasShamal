@@ -27,8 +27,5 @@
 -->
 
 
-Connect with me : 
-https://twitter.com/elyas_shamal
-
 
 
