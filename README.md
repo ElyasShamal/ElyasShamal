@@ -16,9 +16,8 @@
 
 
 - 🌱 I’m currently learning Python
-- 💬 Ask me about HTML CSS JavaScript React
+- 💬 Ask me about HTML CSS JavaScript React Pyton
 - 📫 How to reach me: ShamalElyas2@gmail.com 
-- 📱 phone: 9842706452   
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building stuff 
 
